@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Olaitan Olanrewaju</h1>
+<h1 align="center">Hi 👋, I'm Olaitan Olanrewaju</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 <p align="center"> willing to learn, unlearn and re-learn</p>
 
