@@ -3,7 +3,7 @@
 <p align="center"> willing to learn, unlearn and re-learn</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Olaitan;A+MERN+stack+developer;with+Experience;building+unique+softwares;that+solves+problems;I+am+skilled+in+TypeScript;Javascript+,Node+JS+,Express;GraphQl+,React+,NextJS;MongoDB+,Postgres+,MsSQL;Oracle+,GCP+,AWS+,Docker;Kubernates+,VMware+,MCP;HTML/CSS+,PHP;and+many+others&font=Fira%20Code&center=true&width=380&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Olaitan;A+MERN+stack+developer;with+Experience;building+unique+softwares;that+solves+problems;I+am+skilled+in+TypeScript;Javascript+,Node+JS+,Express;GraphQl+,React+,NextJS;MongoDB+,Postgres+,MsSQL;Oracle+,GCP+,AWS+,Docker;Kubernetes+,VMware+,MCP;HTML/CSS+;and+many+others&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
  <p align="center">
