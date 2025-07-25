@@ -19,7 +19,7 @@
  
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Olaitan1" alt="Olaitan1" /></a> </p>
 
-- 🔭 I’m currently working with Decagon Hq**
+- 🔭 Hello**
 - 🌱 I work with **Node JS, Java and C#**
 - 💬 Ask me about **TypeScript, Express, React, Java, .Net Framework**
 - 📫 How to reach me **holaitan4@gmail.com**
