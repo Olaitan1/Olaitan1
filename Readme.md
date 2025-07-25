@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olaitan Olanrewaju</h1>
-<h3 align="center">A Backend developer</h3>
+<h3 align="center"> BACKEND DEVELOPER</h3>
 <p align="center"> willing to learn, unlearn and re-learn</p>
 
 <p align="center">
