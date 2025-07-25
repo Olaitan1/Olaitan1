@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olaitan Olanrewaju</h1>
-<h3 align="center">A passionate MERN stack developer</h3>
+<h3 align="center">A Backend developer</h3>
 <p align="center"> willing to learn, unlearn and re-learn</p>
 
 <p align="center">
@@ -20,13 +20,13 @@
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Olaitan1" alt="Olaitan1" /></a> </p>
 
 - 🔭 I’m currently working with Decagon Hq**
-- 🌱 I work with **Node JS**
-- 💬 Ask me about **TypeScript, Express, React, Backend and Frontend development**
+- 🌱 I work with **Node JS, Java and C#**
+- 💬 Ask me about **TypeScript, Express, React, Java, .Net Framework**
 - 📫 How to reach me **holaitan4@gmail.com**
 - ⚡ Fun fact **I love music**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Heisuthman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chizoba_victory" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/olaitan-olanrewaju-216550195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chizoba Victory Linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/heisuthmano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_zobs" height="30" width="40" /></a>
+<a href="https://twitter.com/Heisuthman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Heisuthman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/olaitan-olanrewaju-216550195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Olaitan Olanrewaju Linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/thereal_humanizer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@thereal_humanizer" height="30" width="40" /></a>
 </p>
